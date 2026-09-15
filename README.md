@@ -141,7 +141,7 @@ cloud-mail
 
 ## 赞助
 
-<a href="https://doc.skymail.ink/support.html" >
+<a href="https://acboxcs.pse.is/9lvpak" >
 <img width="170px" src="./doc/images/support.png" alt="">
 </a>
 
